@@ -227,6 +227,7 @@
 				TargetAttributes = {
 					2D843BBB1DEC08BD003BB791 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = M7GX45P2UZ;
 					};
 					2D843BD41DEC08BE003BB791 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -437,6 +438,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M7GX45P2UZ;
 				INFOPLIST_FILE = AES/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DanLu.AES;
@@ -448,6 +450,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M7GX45P2UZ;
 				INFOPLIST_FILE = AES/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DanLu.AES;

@@ -22,7 +22,6 @@
     
     NSString *encryptStr = [password aci_encryptWithAES];
     NSString *decryptStr = [encryptStr aci_decryptWithAES];
-    
     NSLog(@"%@", decryptStr);
 }
 
